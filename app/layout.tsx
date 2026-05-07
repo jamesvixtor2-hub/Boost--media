@@ -1,5 +1,10 @@
 import './globals.css'
 
+export const metadata = {
+  title: 'Boost Media',
+  description: 'TikTok Panel',
+}
+
 export default function RootLayout({
   children,
 }: {
